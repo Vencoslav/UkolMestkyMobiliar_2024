@@ -1,0 +1,3 @@
+Lavicka	true	2024-04-21	50.0	Lavička
+Fitness	false	2024-04-22	100.0	Fitness
+Jine	true	2024-04-23	75.0	Jiné
